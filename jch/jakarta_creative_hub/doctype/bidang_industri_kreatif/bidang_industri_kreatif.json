@@ -10,7 +10,7 @@
  "custom": 0, 
  "docstatus": 0, 
  "doctype": "DocType", 
- "document_type": "Setup", 
+ "document_type": "Other", 
  "editable_grid": 1, 
  "engine": "InnoDB", 
  "fields": [
@@ -57,7 +57,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2019-02-25 13:45:54.336014", 
+ "modified": "2019-03-19 18:06:18.498148", 
  "modified_by": "Administrator", 
  "module": "Jakarta Creative Hub", 
  "name": "Bidang Industri Kreatif", 

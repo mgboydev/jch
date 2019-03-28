@@ -10,7 +10,7 @@
  "custom": 0, 
  "docstatus": 0, 
  "doctype": "DocType", 
- "document_type": "", 
+ "document_type": "Other", 
  "editable_grid": 1, 
  "engine": "InnoDB", 
  "fields": [
@@ -57,7 +57,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2019-03-08 11:31:36.428441", 
+ "modified": "2019-03-19 17:29:01.866886", 
  "modified_by": "Administrator", 
  "module": "Jakarta Creative Hub", 
  "name": "Area", 
