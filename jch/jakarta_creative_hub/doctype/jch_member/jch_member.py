@@ -17,7 +17,7 @@ class JCHMember(Document):
 			query2 = '{:05d}'.format(1)
 			doc.name = (doc.series + doc.kode_domisili_ktp + doc.kota_kabupaten + str(query2))
 		else:
-			query3 = query1[4:9]
+			query3 = query1[4:8]
 			query4 = int(query3) + 1
 			query5 = '{:05d}'.format(query4)
 			doc.name = (doc.series + doc.kode_domisili_ktp + doc.kota_kabupaten + str(query5))
